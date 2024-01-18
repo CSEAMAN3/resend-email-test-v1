@@ -16,7 +16,7 @@ export default function ContactForm() {
           htmlFor="name"
           className="w-full"
         >
-            Name:
+            Name:.
         </label>
         <input
           placeholder="your name..."
